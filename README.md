@@ -5,4 +5,4 @@ I made this game after following [Sentdex's pygame tutorial](https://youtube.com
 
 I made this in ```2017/2018``` at 5th grade but I'm adding this into my repository to practice my git
 
-Download zip file [here](https://Ducks404.github.io/A-Bit-Racey/A%20bit%20racey.zip)
+Download zip file [here](https://github.com/Ducks404/A-Bit-Racey/raw/main/A%20bit%20racey.zip)
